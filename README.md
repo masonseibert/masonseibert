@@ -8,3 +8,5 @@
 masonseibert/masonseibert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[PS5 Theme v2 by Rodel via Themezer.zip](https://github.com/masonseibert/masonseibert/files/9691305/PS5.Theme.v2.by.Rodel.via.Themezer.zip)
+[atmosphere-1.3.2-master-e96972c93+hbl-2.4.1+hbmenu-3.5.1.zip](https://github.com/masonseibert/masonseibert/files/9691307/atmosphere-1.3.2-master-e96972c93%2Bhbl-2.4.1%2Bhbmenu-3.5.1.zip)
